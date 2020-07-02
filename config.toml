@@ -1,4 +1,4 @@
-baseURL = "https://sbuscher.github.io/dev-blog"
+baseURL = ""
 languageCode = "en-us"
 title = "My New Hugo Site"
 publishDir = "docs"
