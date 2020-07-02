@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
    <title>dev.shanebuscher.com</title>
-   <link>https://sbuscher.github.io/dev-blog/</link>
+   <link>https://dev.shanebuscher.com/</link>
    <description>Recent content on dev.shanebuscher.com</description>
    <generator>Hugo -- gohugo.io</generator>
    <language>en-us</language>
    
-       <atom:link href="https://sbuscher.github.io/dev-blog/index.xml" rel="self" type="application/rss+xml" />
+       <atom:link href="https://dev.shanebuscher.com/index.xml" rel="self" type="application/rss+xml" />
    
    
  </channel>
