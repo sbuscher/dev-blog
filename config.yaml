@@ -1,0 +1,25 @@
+baseURL: "https://dev.shanebuscher.com"
+title: "dev.shanebuscher.com"
+copyright: "Copyright &copy; 2020 - Shane Buscher"
+theme: "hugo-kiera"
+publishDir: "docs"
+googleAnalytics: "UA-107467323-1"
+
+paginate: 3
+enableEmoji: true
+summaryLength: 30
+pygmentsCodeFences: true
+
+author:
+  name: "Shane Buscher"
+  github: "sbuscher"
+  twitter: "notifyshane"
+  strava: "sbuscher"
+  # codepen: "sbuscher"
+  # add stackblitz
+
+params:
+  tagline: "anecdotes of a spatial developer"
+  favicon: "favicon.ico"
+  # images: twitter card
+  # homepageLength = 10

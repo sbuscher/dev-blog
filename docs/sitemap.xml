@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dev.shanebuscher.com/categories/</loc>
+    <loc>https://dev.shanebuscher.com/</loc>
+    <lastmod>2020-07-04T10:22:14-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://dev.shanebuscher.com/</loc>
+    <loc>https://dev.shanebuscher.com/posts/</loc>
+    <lastmod>2020-07-04T10:22:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dev.shanebuscher.com/posts/test-post/</loc>
+    <lastmod>2020-07-04T10:22:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dev.shanebuscher.com/categories/</loc>
   </url>
   
   <url>

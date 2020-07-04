@@ -1,5 +1,0 @@
-baseURL = "https://dev.shanebuscher.com"
-languageCode = "en-us"
-title = "dev.shanebuscher.com"
-publishDir = "docs"
-theme = "hugo-kiera"
